@@ -1,0 +1,9 @@
+[
+  {
+    "name": "VMRack 三网精品云服务器 L3.VPS.1C1G.Base",
+    "url": "https://www.vmrack.net/zh-CN/activity/2026-spring",
+    "target": "L3.VPS.1C1G.Base",
+    "available_keywords": ["立即购买", "购买", "有货", "Order", "In Stock"],
+    "unavailable_keywords": ["无货", "缺货", "售罄", "Out of Stock", "Sold Out"]
+  }
+]
